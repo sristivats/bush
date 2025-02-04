@@ -119,11 +119,13 @@ You can view the Demo video on Google Drive by clicking the link below:
 [Watch the Video](https://drive.google.com/file/d/1_VHosx_xXTjfTaL9j64KoBBqjLDv1vQB/view?usp=drive_link)
 
 ## dApp flow Screenshots
-![Example Image]("C:\Users\Shreya Paul\OneDrive\Desktop\dapp pics\pc 1.jpg")
-![Example Image]("C:\Users\Shreya Paul\OneDrive\Desktop\dapp pics\pc2.jpg")
-![Example Image]("C:\Users\Shreya Paul\OneDrive\Desktop\dapp pics\pc3.jpg")
-![Example Image]("C:\Users\Shreya Paul\OneDrive\Desktop\dapp pics\pc4.jpg")
-![Example Image]("C:\Users\Shreya Paul\OneDrive\Desktop\dapp pics\pc5.jpg")
+
+![image](https://github.com/user-attachments/assets/35d8d65a-3c65-4299-99c3-142695aeaf73)
+![image](https://github.com/user-attachments/assets/6ccb4de6-c5ae-4eb4-8de4-320fd1e69d42)
+![image](https://github.com/user-attachments/assets/65adee1e-e323-4361-b9d7-d812f7e7f11b)
+![image](https://github.com/user-attachments/assets/d11ff12c-678e-471a-9511-2795c5cd902c)
+![image](https://github.com/user-attachments/assets/1d60a98c-2338-4cee-92f8-c8f6a642e764)
+
 
 # 📡 *IoT Integration Flow Documentation*
 
